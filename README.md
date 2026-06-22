@@ -6,3 +6,5 @@ My work spans software engineering, backend API design, ML-powered applications,
 
 # Personal Portfolio
 Check out my [personal portfolio website!](https://www.olriczeng.com/)
+
+![og-image](og-image.png)
